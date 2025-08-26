@@ -1,0 +1,10 @@
+# Ignore directories
+Hematoxylin/
+__MACOSX/
+lost+found/
+
+# Ignore studies symlink
+studies
+
+# Ignore CSV files
+*.csv
